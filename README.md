@@ -1,0 +1,2 @@
+# ASSIGNMENTS_2026
+PYTHON assigments
